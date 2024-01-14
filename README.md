@@ -1,5 +1,12 @@
-
 # Summary of "A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement"
+
+<!-- Add DOI Badge -->
+<p align="center">
+  <a href="https://doi.org/10.1016/j.mlwa.2022.100423">
+    <img src="https://img.shields.io/badge/DOI-10.1016%2j.mlwa.2022.100423-blue" alt="DOI">
+  </a>
+</p>
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -41,7 +48,7 @@
 - **Future Directions:** Suggests areas for further research in stacking methods and semantic similarity, with a focus on AI and machine learning.
 
 ## References
-- [Link to Original Paper](https://www.sciencedirect.com/science/article/pii/S2666827022000986) (Open Access)
+- [Link to Original Paper](https://www.sciencedirect.com/science/article/pii/S2666827022000986)
 
 ```
 @article{martinez2022comprehensive,
@@ -53,3 +60,5 @@
   year={2022},
   publisher={Elsevier}
 }
+```
+
