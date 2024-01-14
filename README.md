@@ -1,11 +1,6 @@
 # Summary of "A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement"
 
-<!-- Add DOI Badge -->
-<p align="center">
-  <a href="https://doi.org/10.1016/j.mlwa.2022.100423">
-    <img src="https://img.shields.io/badge/DOI-10.1016%2j.mlwa.2022.100423-blue" alt="DOI">
-  </a>
-</p>
+[![DOI](https://zenodo.org/badge/DOI/10.1016/j.mlwa.2022.100423.svg)](https://doi.org/10.1016/j.mlwa.2022.100423)
 
 
 ## Table of Contents
