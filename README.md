@@ -1,4 +1,4 @@
-# Summary of "A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement"
+# Summary and examples of "A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement"
 
 [![DOI](https://zenodo.org/badge/DOI/10.1016/j.mlwa.2022.100423.svg)](https://doi.org/10.1016/j.mlwa.2022.100423)
 
