@@ -1,6 +1,6 @@
 # A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement
 
-[![DOI](https://zenodo.org/badge/DOI/10.1016/j.mlwa.2022.100423.svg)](https://doi.org/10.1016/j.mlwa.2022.100423) [![Citations](https://img.shields.io/badge/citations-30-blue)](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=X1pRUYcAAAAJ:DPO9WFcz7UcC)
+[![DOI](https://zenodo.org/badge/DOI/10.1016/j.mlwa.2022.100423.svg)](https://doi.org/10.1016/j.mlwa.2022.100423) [![Citations](https://img.shields.io/badge/citations-41-blue)](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=X1pRUYcAAAAJ:DPO9WFcz7UcC)
 
 ## Overview
 This repository provides a structured summary and key insights from the paper **"A Comprehensive Review of Stacking Methods for Semantic Similarity Measurement"**, authored by **Jorge Martinez-Gil** and published in *Machine Learning with Applications*.
