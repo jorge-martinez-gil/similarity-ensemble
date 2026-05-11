@@ -115,24 +115,6 @@ Combines two or more families (e.g., neural + fuzzy = *Neurofuzzy*; neural + sym
 
 ---
 
-## 📊 Experimental Results at a Glance
-
-The paper evaluates all six families against standard semantic similarity benchmarks. Representative results (Pearson *r* correlation with human judgements):
-
-| Method Family | STS Benchmark | SICK | S17 STS | Avg. Rank |
-|---|---|---|---|---|
-| Single best base measure | ~0.73 | ~0.71 | ~0.76 | 6th |
-| Algebraic Stacking | ~0.76 | ~0.74 | ~0.78 | 5th |
-| Blending | ~0.79 | ~0.76 | ~0.80 | 4th |
-| Fuzzy Stacking | ~0.78 | ~0.75 | ~0.79 | 4th |
-| Genetic Stacking | ~0.80 | ~0.77 | ~0.81 | 3rd |
-| Neural Stacking | ~0.82 | ~0.79 | ~0.83 | 2nd |
-| **Hybrid Approaches** | **~0.85** | **~0.82** | **~0.86** | **1st** |
-
-> 📝 Scores are indicative; refer to the [full paper](https://www.sciencedirect.com/science/article/pii/S2666827022000986) for exact figures, confidence intervals, and statistical significance tests.
-
----
-
 ## 🌐 Applications
 
 The stacking methods reviewed here are directly applicable to — and have been cited in work on — the following tasks:
