@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.1016/j.mlwa.2022.100423"><img src="https://zenodo.org/badge/DOI/10.1016/j.mlwa.2022.100423.svg" alt="DOI"/></a>
   <a href="https://scholar.google.com/scholar?q=A+comprehensive+review+of+stacking+methods+for+semantic+similarity+measurement"><img src="https://img.shields.io/badge/citations-41-blue" alt="Citations"/></a>
   <a href="https://www.sciencedirect.com/science/article/pii/S2666827022000986"><img src="https://img.shields.io/badge/journal-Machine%20Learning%20with%20Applications-orange" alt="Journal"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/jorge-martinez-gil/similarity-ensemble" alt="License"/></a>
